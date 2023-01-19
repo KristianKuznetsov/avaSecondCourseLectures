@@ -1,4 +1,4 @@
-# Паттерны - Facade:
+# Паттерны - Composite:
 [Назад](https://github.com/KristianKuznetsov/avaSecondCourseLectures)
 ___
 
