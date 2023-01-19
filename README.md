@@ -4,4 +4,4 @@
 
 ## Паттерны:
 - [**Abstract Factory**](https://github.com/KristianKuznetsov/JavaSecondCourseColloquiums/tree/main/Calloc3)
-- 
+- [**Singleton**](https://github.com/KristianKuznetsov/avaSecondCourseLectures/tree/main/Singleton)
