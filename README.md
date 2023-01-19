@@ -9,7 +9,7 @@
 - [**Bridge**](https://github.com/KristianKuznetsov/avaSecondCourseLectures/tree/main/Bridge)
 - [**Strategy**](https://github.com/KristianKuznetsov/avaSecondCourseLectures/tree/main/Strategy)
 - [**Factory Method**](https://github.com/KristianKuznetsov/avaSecondCourseLectures/tree/main/Factory%20Method)
-- [**Decorator**]()
+- [**Decorator**](https://github.com/KristianKuznetsov/avaSecondCourseLectures/tree/main/Decorator)
 - [**non**]()
 - [**non**]()
 ___
