@@ -8,7 +8,7 @@
 - [**Builder**](https://github.com/KristianKuznetsov/avaSecondCourseLectures/tree/main/Builder)
 - [**Bridge**](https://github.com/KristianKuznetsov/avaSecondCourseLectures/tree/main/Bridge)
 - [**Strategy**](https://github.com/KristianKuznetsov/avaSecondCourseLectures/tree/main/Strategy)
-- [**non**]()
+- [**Factory Method**]()
 - [**non**]()
 - [**non**]()
 - [**non**]()
