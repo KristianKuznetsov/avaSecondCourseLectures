@@ -6,7 +6,7 @@
 - [**Abstract Factory**](https://github.com/KristianKuznetsov/JavaSecondCourseColloquiums/tree/main/Calloc3)
 - [**Singleton**](https://github.com/KristianKuznetsov/avaSecondCourseLectures/tree/main/Singleton)
 - [**Builder**](https://github.com/KristianKuznetsov/avaSecondCourseLectures/tree/main/Builder)
-- [**non**]()
+- [**Bridge**]()
 - [**non**]()
 - [**non**]()
 - [**non**]()
