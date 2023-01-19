@@ -7,14 +7,11 @@
 - [**Singleton**](https://github.com/KristianKuznetsov/avaSecondCourseLectures/tree/main/Singleton)
 - [**Builder**](https://github.com/KristianKuznetsov/avaSecondCourseLectures/tree/main/Builder)
 - [**Bridge**](https://github.com/KristianKuznetsov/avaSecondCourseLectures/tree/main/Bridge)
+- [**Strategy**](https://github.com/KristianKuznetsov/avaSecondCourseLectures/tree/main/Strategy)
 - [**non**]()
 - [**non**]()
 - [**non**]()
 - [**non**]()
-- [**non**]()
-- [**non**]()
-- [**non**]()
-
 ___
 
 Паттерны проектирования (шаблоны проектирования) - это готовые к использованию решения часто возникающих в программировании задач. Это не класс и не библиотека, которую можно подключить к проекту, это нечто большее. Паттерны проектирования, подходящий под задачу, реализуется в каждом конкретном случае. Следует, помнить, что такой паттерн, будучи примененным неправильно или к неподходящей задаче, может принести немало проблем. Тем не менее, правильно примененный паттерн поможет решить задачу легко и просто.
